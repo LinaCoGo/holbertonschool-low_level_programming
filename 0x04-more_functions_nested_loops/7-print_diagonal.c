@@ -1,8 +1,6 @@
 #include "holberton.h"
-#include "holberton.h"
-
 /**
- * print_diagonal - Print space \ by the given number (x).
+ * print_diagonal - Print space \ by the given number.
  *@n: Given number.
  */
 void print_diagonal(int n)
